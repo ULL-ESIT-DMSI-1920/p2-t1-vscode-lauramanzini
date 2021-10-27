@@ -1,4 +1,4 @@
-# Práctica 3: VSCode
+# Práctica 3 - VSCode
 
 **Laura Manzini**
 
@@ -33,7 +33,7 @@ El GitPod en cambio es un *Cloud IDE* es decir una herramienta que permite de de
 <a name = "tutorial"><a> 
 ## 3. Tutorial
 
-Para aprender de manera mejor como utilizar VSCode hay algunos tutorials como el siguiente [tutorial](https://www.youtube.com/watch?v=VqCgcpAypFQ&ab_channel=Academind) que se encuentra en Youtube.
+Para aprender de manera mejor como utilizar VSCode hay algunos tutorials como el siguiente [tutorial](https://code.visualstudio.com/docs/introvideos/basics).
 
 Abriendo VSCode se pueden ver algunos de los *shortcuts* más util que nos pueden ayudar a utilizar la plataforma.
 
@@ -48,19 +48,30 @@ Pulsando uno de los comandos podemos:
 
 En la barra lateral encontramos las funcionalidades principales de VSCode que utilizamos. Si instalamos un plugin sobre VSCode la barra lateral añadirá elementos que nos serían util para el desarollo de un proyecto.
 
-![barra lateral](/Img1_barra_lateral)
-
 Las funcionalidades princípal van a ser:
 
 * Explorador: nos permite de explorar ficheros y carpetas que hemos abierto sobre la plataforma 
 * Buscar: buscamos las coincidencias de una palabra y hacemos modificaciones
-* 
+* Control de código fuente: permite la integración con git haciendo commits y guardando código  
+* Depurar: funcionalidad que permite de depurar los archivos JavaScript. Sierve a ir de linea a linea para depurar cada linea
+* Extensiones: instalación y busqueda de extensiones para VSCode
 
-Una funcionalidad muy util para trabajar sobre un código en curso de desarollo es duplicar la pantalla para ver todos los cambios que se han hecho.
+Algunas funcionalidades que van a ser muy util son las siguientes:
+
+* Duplicar la pantalla en la que se está desarollando el código para ver todos los cambios que se han hecho
+* Barra de busqueda arriba para encontrar acciones o archivos. Es necesario utilizar el simbolo `>` 
+* Trabajar con más documientos abiertos elijiendo la configuración que nos más gusta
+* Ver la ruta de navigación del fichero que está abierto
+
+En la *welcolme page* de VSCode es posible encontrar ayuda en el utilizo de la plataforma y también las configuraciónes más util.
+
+Algunos comandos util pueden ser:
+* Ctrl + º : división de pantalla
+
+
 
 https://www.youtube.com/watch?v=Ijz1mXQm7KU&ab_channel=FalconMasters
 
-FINISCI
 
 <a name = "plugin"><a> 
 ## 4. PlugIn SSH FS
