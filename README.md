@@ -37,16 +37,18 @@ Para aprender de manera mejor como utilizar VSCode hay algunos tutorials como el
 
 Abriendo VSCode se pueden ver algunos de los *shortcuts* más util que nos pueden ayudar a utilizar la plataforma.
 
-![vscode start](/Img1_vsc_start.jpg)
+![vscode start](/Imagenes/vsc_start.jpg)
 
 Pulsando uno de los comandos podemos:
 
 * Ver todos los comandos
 * Abrir un fichero
-* Abrir una carpete
+* Abrir una carpeta
 * Abrir un fichero recente
 
 En la barra lateral encontramos las funcionalidades principales de VSCode que utilizamos. Si instalamos un plugin sobre VSCode la barra lateral añadirá elementos que nos serían util para el desarollo de un proyecto.
+
+![barra lateral](/Imagenes/Imag2_barra_lateral.jpg)
 
 Las funcionalidades princípal van a ser:
 
@@ -65,22 +67,16 @@ Algunas funcionalidades que van a ser muy util son las siguientes:
 
 En la *welcolme page* de VSCode es posible encontrar ayuda en el utilizo de la plataforma y también las configuraciónes más util.
 
-Algunos comandos util pueden ser:
-* Ctrl + º : división de pantalla
-
-
-
-https://www.youtube.com/watch?v=Ijz1mXQm7KU&ab_channel=FalconMasters
-
+Una otra caracteristica que VSCode tiene es la posibilidad de instalar extensiones que nos ayudarán a utilizar de manera mejor la herramienta.
 
 <a name = "plugin"><a> 
 ## 4. PlugIn SSH FS
 
-Una de las ventajas que se obtienen utilizando VSCode es la posibilidad de instalar extensiones que permiten de personalizar la plataforma para su proprio utilizo. 
+Como hemos dicho una de las ventajas que se obtienen utilizando VSCode es la posibilidad de instalar extensiones que permiten de personalizar la plataforma para su proprio utilizo. 
 
 La extensión SSH FS permite de montar carpetas remotas como carpetas de espacio de trabajo local, iniciar terminales remotos integrados y ejecutar tareas ssh-shell.
 
-![Install plugin](/Img1_sshfs.jpg)
+![Install plugin](/Imagenes/Img1_sshfs.jpg)
 
 Una *secure shell* (ssh) es un protocolo de red que nos permite de acceder a una shell en remoto a través de una conneción segura.
 
@@ -89,10 +85,12 @@ Una *secure shell* (ssh) es un protocolo de red que nos permite de acceder a una
 
 Para aprender como se utiliza la funcíon de LiveShare de VSCode se puede vistitar la [página oficial](https://code.visualstudio.com/learn/collaboration/live-share) de LiveShare.
 
-![live share install](/Img2_liveshare.jpg)
+![live share install](/Imagenes/liveshare.jpg)
 
 Esta extención nos permite de colaborar con otras personas en tiempo real para el desarollo de un proyecto. LiveShare permite de hacer llamadas y también inviar mensajes.
 
-Seleccionando la opccíon *Start Collaboration session* se genera de manera automatica un enlace que se puede compartir con 
+Seleccionando la opccíon *Start Collaboration session* se genera de manera automatica un enlace que se puede compartir con otros usuarios.
+
+![live share compartir](/Imagenes/liveshare_compartir.jpg)
 
 El unico requisto es que las personas con las que colaboras tengan también instalado en sus maquinas VS Code y la extensión de Live Share.
