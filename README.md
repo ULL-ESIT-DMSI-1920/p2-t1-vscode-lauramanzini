@@ -78,7 +78,9 @@ La extensión SSH FS permite de montar carpetas remotas como carpetas de espacio
 
 ![Install plugin](/Imagenes/Img1_sshfs.jpg)
 
-Una *secure shell* (ssh) es un protocolo de red que nos permite de acceder a una shell en remoto a través de una conneción segura.
+Una *secure shell* (ssh) es un protocolo de red que nos permite de acceder a una shell en remoto a través de una conneción segura. A través de VSCode y su extensión de SSH es posible conectarse a la maquina IAAS de la ULL. Utilizando el comando **Remote-SSH: Add New SSH Host** es posible hacer la conneción con la maquina IAAS de la ULL.
+
+![ssh config](/Imagenes/ssh_config.jpg)
 
 <a name = "liveshare"><a> 
 ## 5. Instalación de LiveShare
