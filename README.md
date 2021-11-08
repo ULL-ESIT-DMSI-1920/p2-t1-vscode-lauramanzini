@@ -15,11 +15,9 @@ alu0101531700@ull.edu.es
 
 **Visual Studio Code** (VSCode) es un IDE (Integrated Development Environment) que permite de desarrollar código y adémas incluye soporte para la depuración, control integrado de Git, resaltado de sintaxis, finalización inteligente de código, fragmentos y refactorización de código. En inglés esta herramienta es llamada un *code editor*.
 
-Este editor está escrito totalmente en Electron, un framework utilizado para unir Chromium y Node.js en forma de aplicación de escritorio.
+Este editor está escrito totalmente en Electron, un framework utilizado para unir Chromium y Node.js en forma de aplicación de escritorio. Una de las mejores características de este editor es *IntelliSense*. Esta función permite resaltar la sintaxis de todo el código fuente.
 
-Una de las mejores características de este editor es *IntelliSense*. Esta función permite resaltar la sintaxis de todo el código fuente.
-
-VSCode es disponibles sobre los sistemas operativos Windows, macOS y Linux y se puede instalar desde la [pagína principal](https://code.visualstudio.com/download) de la plataforma de forma gratuita.
+VSCode es disponibles sobre los sistemas operativos Windows, MacOS y Linux y se puede instalar desde la [pagína principal](https://code.visualstudio.com/download) de la plataforma, de forma gratuita.
 
 <a name = "vscgitpod"><a> 
 ## 2. VSCode y GitPod
@@ -48,7 +46,7 @@ Pulsando uno de los comandos podemos:
 
 En la barra lateral encontramos las funcionalidades principales de VSCode que utilizamos. Si instalamos un plugin sobre VSCode la barra lateral añadirá elementos que nos serían util para el desarollo de un proyecto.
 
-![barra lateral](/Imagenes/Imag2_barra_lateral.jpg)
+![barra lateral](./Imagenes/Imag2_barra_lateral.jpg)
 
 Las funcionalidades princípal van a ser:
 
@@ -76,23 +74,21 @@ Como hemos dicho una de las ventajas que se obtienen utilizando VSCode es la pos
 
 La extensión SSH FS permite de montar carpetas remotas como carpetas de espacio de trabajo local, iniciar terminales remotos integrados y ejecutar tareas ssh-shell.
 
-![Install plugin](/Imagenes/Img1_sshfs.jpg)
+![Install plugin](./Imagenes/Img1_sshfs.jpg)
 
 Una *secure shell* (ssh) es un protocolo de red que nos permite de acceder a una shell en remoto a través de una conneción segura. A través de VSCode y su extensión de SSH es posible conectarse a la maquina IAAS de la ULL. Utilizando el comando **Remote-SSH: Add New SSH Host** es posible hacer la conneción con la maquina IAAS de la ULL.
 
-![ssh config](/Imagenes/ssh_config.jpg)
+![ssh config](./Imagenes/ssh_config.jpg)
 
 <a name = "liveshare"><a> 
 ## 5. Instalación de LiveShare
 
-Para aprender como se utiliza la funcíon de LiveShare de VSCode se puede vistitar la [página oficial](https://code.visualstudio.com/learn/collaboration/live-share) de LiveShare.
+Para aprender como se utiliza la función de LiveShare de VSCode se puede vistitar la [página oficial](https://code.visualstudio.com/learn/collaboration/live-share) de LiveShare. La extensión LiveShare se puede encontrar en el *Marketplace* de VSCode donde se buscan las extensiones que se pueden instalar. 
 
-![live share install](/Imagenes/liveshare.jpg)
+![live share install](./Imagenes/liveshare.jpg)
 
-Esta extención nos permite de colaborar con otras personas en tiempo real para el desarollo de un proyecto. LiveShare permite de hacer llamadas y también inviar mensajes.
+Esta extensión nos permite de colaborar con otras personas en tiempo real para el desarollo de un proyecto. LiveShare permite de hacer llamadas y también inviar mensajes. Seleccionando la opcíon *Start Collaboration Session* se genera de manera automatica un enlace que se comparte con otros usuarios.
 
-Seleccionando la opccíon *Start Collaboration session* se genera de manera automatica un enlace que se puede compartir con otros usuarios.
+![live share compartir](./Imagenes/liveshare_compartir.jpg)
 
-![live share compartir](/Imagenes/liveshare_compartir.jpg)
-
-El unico requisto es que las personas con las que colaboras tengan también instalado en sus maquinas VS Code y la extensión de Live Share.
+El unico requisto es que las personas con las que colaboras tengan también instalado en sus maquinas VSCode y la extensión de Live Share.
