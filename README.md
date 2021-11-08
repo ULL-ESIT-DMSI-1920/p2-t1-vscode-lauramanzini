@@ -46,7 +46,7 @@ Pulsando uno de los comandos podemos:
 
 En la barra lateral encontramos las funcionalidades principales de VSCode que utilizamos. Si instalamos un plugin sobre VSCode la barra lateral añadirá elementos que nos serían util para el desarollo de un proyecto.
 
-![barra lateral](./Imagenes/Imag2_barra_lateral.jpg)
+![barra lateral](./Imagenes/Img2_barra_lateral.jpg)
 
 Las funcionalidades princípal van a ser:
 
